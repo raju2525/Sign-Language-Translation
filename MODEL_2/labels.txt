@@ -1,0 +1,12 @@
+0 How
+1 When
+2 Hello
+3 help
+4 I LOVE YOU
+5 Meet
+6 Name
+7 No
+8 Thank you
+9 What
+10 yes
+11 You

@@ -1,0 +1,3 @@
+0 corn
+1 rice
+2 groundnut
